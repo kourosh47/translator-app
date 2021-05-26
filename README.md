@@ -1,6 +1,6 @@
-# translator-app
-requirements:
-      pip install QtPy5
+# translator-app\n
+requirements:\n
+      pip install QtPy5\n
       pip install googletrans
       pip install PyDictionary
       pip install pyttsx3
